@@ -1,0 +1,3 @@
+This is a sample text for the Text Finder application.
+You can search for words like "sample", "application", or any other keyword you want.
+The program will highlight the occurrences of the keyword in the text.

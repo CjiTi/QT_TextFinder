@@ -1,0 +1,3 @@
+C:\Users\22865\VScode\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\TextFinder.dir/objects.a
+C:\Users\22865\VScode\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\TextFinder.dir/objects.a @CMakeFiles\TextFinder.dir\objects1.rsp
+C:\Users\22865\VScode\QT\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\TextFinder.dir/objects.a -Wl,--no-whole-archive -o TextFinder.exe -Wl,--out-implib,libTextFinder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TextFinder.dir\linkLibs.rsp
